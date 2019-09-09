@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSCarousel_Example' do
+  pod 'SSCarousel', :path => '../'
+
+  target 'SSCarousel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
