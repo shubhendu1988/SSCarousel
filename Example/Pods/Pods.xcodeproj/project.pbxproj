@@ -14,7 +14,6 @@
 		90DDF5084222B32C9FF874B11FC9BA3C /* SSCarousel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27DDA92C258B1308656584A00C5E682E /* SSCarousel-dummy.m */; };
 		B30A60FCABAA6CC417CC26CFF8EB916C /* Pods-SSCarousel_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B8916A4B36E79DD2258DFB6D3EB184F /* Pods-SSCarousel_Tests-dummy.m */; };
 		D12AA850625C6C276CEAE7EF3A90F32E /* SSCarousel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 66DE1249270201F1D07B215A3172E982 /* SSCarousel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E2335B84A5F1C0E7A10CD6F4628413E6 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7A69822E340829271CF575A03D41C2 /* ReplaceMe.swift */; };
 		E9EDC7546B5C748B5C035B1E44B0F036 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		F53D615B35CDF46DD2ECB0F8C7AB62E1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -42,11 +41,11 @@
 		1C83698F303483CD6BE1379752DF4942 /* Pods-SSCarousel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SSCarousel_Example-dummy.m"; sourceTree = "<group>"; };
 		251C53C7F7CC05D583A10DE9E804646D /* SSCarousel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SSCarousel.modulemap; sourceTree = "<group>"; };
 		27DDA92C258B1308656584A00C5E682E /* SSCarousel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSCarousel-dummy.m"; sourceTree = "<group>"; };
-		29DD9F26EA8F08A1757CF1B773FEF3E5 /* SSCarousel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SSCarousel.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		29DD9F26EA8F08A1757CF1B773FEF3E5 /* SSCarousel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SSCarousel.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2D9F739F1F8AD0FA3DA4A7E52281670C /* SSCarousel-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SSCarousel-Info.plist"; sourceTree = "<group>"; };
 		3D961075485EE90119DB08C3A6FAC0BA /* Pods-SSCarousel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SSCarousel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		435F2FCB83B316EE6F64C402BD59CF2A /* Pods-SSCarousel_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SSCarousel_Tests-umbrella.h"; sourceTree = "<group>"; };
-		4A4708C74D338D1F0B9B965F02D98291 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4A4708C74D338D1F0B9B965F02D98291 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		4B541A129563DF7E829D61923CEEDEDC /* Pods-SSCarousel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SSCarousel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4B8916A4B36E79DD2258DFB6D3EB184F /* Pods-SSCarousel_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SSCarousel_Tests-dummy.m"; sourceTree = "<group>"; };
 		51D423A2F926A728773B488981177C7E /* Pods-SSCarousel_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SSCarousel_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -54,16 +53,15 @@
 		66DE1249270201F1D07B215A3172E982 /* SSCarousel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSCarousel-umbrella.h"; sourceTree = "<group>"; };
 		80378CC3907784CDF78283FA6857C9B7 /* Pods-SSCarousel_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SSCarousel_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		880DF378FFC3B39AC314418189A8FB6C /* Pods-SSCarousel_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SSCarousel_Example-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0833CA33CF68FFA71827D8224546DA5 /* Pods-SSCarousel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SSCarousel_Example.modulemap"; sourceTree = "<group>"; };
-		A29DF33144FBD63EE275FF71347C766E /* SSCarousel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SSCarousel.framework; path = SSCarousel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A326174E96F93C270A64C6CA3781B44D /* Pods_SSCarousel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SSCarousel_Example.framework; path = "Pods-SSCarousel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A29DF33144FBD63EE275FF71347C766E /* SSCarousel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SSCarousel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A326174E96F93C270A64C6CA3781B44D /* Pods_SSCarousel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSCarousel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8649D0025E88953579D922363D0C881 /* Pods-SSCarousel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SSCarousel_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		BE7A69822E340829271CF575A03D41C2 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = SSCarousel/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		BFC1A3DC932A7FE9A2636A3C291C9727 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		BFC1A3DC932A7FE9A2636A3C291C9727 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CA59507F887B454E32840F22CD324495 /* Pods-SSCarousel_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SSCarousel_Example-Info.plist"; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CEC5EC84B045D583B61544BD206A3F7D /* Pods_SSCarousel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SSCarousel_Tests.framework; path = "Pods-SSCarousel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEC5EC84B045D583B61544BD206A3F7D /* Pods_SSCarousel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSCarousel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7520128BAB8D92FE79000411D563C0 /* Pods-SSCarousel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SSCarousel_Example-frameworks.sh"; sourceTree = "<group>"; };
 		E87438093ACDA259598F3ACA7A8EA8D6 /* SSCarousel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSCarousel-prefix.pch"; sourceTree = "<group>"; };
 		F0DC0DCAE843F07A3ADE285A13D6FC62 /* Pods-SSCarousel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SSCarousel_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -109,10 +107,17 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
+		7A4BC0F323263BA700BF7197 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
 		8FA7B657C15A4E1D6A9DBE05EE4CCE42 /* SSCarousel */ = {
 			isa = PBXGroup;
 			children = (
-				BE7A69822E340829271CF575A03D41C2 /* ReplaceMe.swift */,
+				7A4BC0F323263BA700BF7197 /* Code */,
 				63ACF865F193C94E65B8E347B17905DA /* Pod */,
 				925639A3019F20A0C0012ADBD19F96CC /* Support Files */,
 			);
@@ -321,6 +326,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -380,7 +386,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2335B84A5F1C0E7A10CD6F4628413E6 /* ReplaceMe.swift in Sources */,
 				90DDF5084222B32C9FF874B11FC9BA3C /* SSCarousel-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -717,8 +722,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};

@@ -22,7 +22,7 @@ pod 'SSCarousel'
 
 ## Author
 
-shubhendu1988@gmail.com, ideezumapps@gmail.com
+shubhendu1988@gmail.com
 
 ## License
 
