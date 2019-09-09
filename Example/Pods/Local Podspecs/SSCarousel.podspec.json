@@ -1,0 +1,22 @@
+{
+  "name": "SSCarousel",
+  "version": "0.1.0",
+  "summary": "A short description of SSCarousel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shubhendu1988@gmail.com/SSCarousel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shubhendu1988@gmail.com": "ideezumapps@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/shubhendu1988@gmail.com/SSCarousel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSCarousel/Classes/**/*"
+}

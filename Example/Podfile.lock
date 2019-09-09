@@ -1,0 +1,16 @@
+PODS:
+  - SSCarousel (0.1.0)
+
+DEPENDENCIES:
+  - SSCarousel (from `../`)
+
+EXTERNAL SOURCES:
+  SSCarousel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSCarousel: cd5f0a043b6e87537ff5665e0e54109ecefdde8d
+
+PODFILE CHECKSUM: 61d97efdc67730fafe3ebff8a43ec48dd311aa20
+
+COCOAPODS: 1.6.1

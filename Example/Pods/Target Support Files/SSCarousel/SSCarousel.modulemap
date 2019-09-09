@@ -1,0 +1,6 @@
+framework module SSCarousel {
+  umbrella header "SSCarousel-umbrella.h"
+
+  export *
+  module * { export * }
+}
